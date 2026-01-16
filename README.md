@@ -19,7 +19,7 @@ A full-stack web application built with Spring Boot and MySQL, demonstrating MVC
 
 1. **Clone and configure**
 ```bash
-git clone https://github.com/yourusername/java-web-app.git
+git clone https://github.com/mark23000-hash/java-web-app.git
 cd java-web-app
 ```
 
